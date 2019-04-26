@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1514140574 source:t:\projectsmoke\main.cpp
+	<iostream>
+
+1556282082 source:t:\projectsmoke\libsmoke.cpp
+	"libSmoke.h"
+
+1556282167 t:\projectsmoke\libsmoke.h
+	<cstdlib>
+	<iostream>
+	<sstream>
+	<cassert>
+
